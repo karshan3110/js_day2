@@ -32,6 +32,8 @@ if(x==="library" && y==="book123"){
             case 3:
                 alert("You selected History");
                 break;
+            default:
+                alert("Invalid Number ");
         }
     }else{
         alert("Maybe next time! Goodbye!");
